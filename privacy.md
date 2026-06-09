@@ -10,8 +10,8 @@ This Privacy Policy explains how KidSafe TV ("the App," "we," "us," or "our") ha
 
 KidSafe TV is operated by:
 
-- **Developer:** YOUR_NAME
-- **Contact email:** YOUR_EMAIL
+- **Developer:** Pure and Simple
+- **Contact email:** pure.simple513@gmail.com
 - **Country of operation:** Malaysia
 
 ## 2. The short version
